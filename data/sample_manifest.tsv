@@ -1,3 +1,4 @@
 sample	status	group
 primer-check-cli-01	ready	control
 primer-check-cli-02	review	case
+primer-check-cli-03	queued	validation
